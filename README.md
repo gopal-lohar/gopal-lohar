@@ -1,4 +1,3 @@
-# Hello
-- I am Gopal Lohar
+Hey, I'm Gopal. 
 
-- I am Second Year Computer Science Student 
+I'm a full stack developer intern at CRITSO
